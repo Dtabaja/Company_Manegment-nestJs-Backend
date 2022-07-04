@@ -2,7 +2,10 @@
 # Description - Backend side
 A Company - Sales Backend Program. 
 
-Includes:
+##Frontend Side- 
+[FrontEnd-Angular]https://github.com/Dtabaja/Company_Management-Angular--FrontEnd/blob/master/README.md
+
+##Includes:
 
 1. Daily sales
 2. List of all the user.

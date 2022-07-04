@@ -8,7 +8,7 @@ Includes:
 2. List of all the user.
 3. List of all the Products.
 4. List of all the Orders.
-5. list of all the roles that can be given to the users.
+5. List of all the roles that can be given to the users.
 
 
 ## Installation
